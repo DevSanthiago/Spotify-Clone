@@ -41,7 +41,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 <div align="center"> 
   <p>Feito por <a href="https://github.com/JohnReiiss">John Reis</a></p>
-  <p>🔗 <strong>Link do projeto</strong>: <a href="https://johnreiiss.github.io/Spotify-Clone/" target="_blank" rel="noopener noreferrer">github.com/JohnReiiss/Spotify-Clone</a></p> 
+  <p>🔗 <strong>Link do projeto</strong>: <a href="https://github.com/DevSanthiago/Spotify-Clone/" target="_blank" rel="noopener noreferrer">github.com/DevSanthiago/Spotify-Clone</a></p> 
 </div>
 
 ## 🚀 Como Usar
@@ -49,7 +49,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 - Clone o repositório
 
 ```bash
-git clone https://github.com/JohnReiiss/Spotify-Clone.git
+git clone https://github.com/DevSanthiago/Spotify-Clone.git
 ````
 - Abra o arquivo index.html em seu navegador
 - Acesse a versão online: Visualizar Projeto
@@ -63,7 +63,7 @@ git clone https://github.com/JohnReiiss/Spotify-Clone.git
 - **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
 - **LinkedIn:** [linkedin.com/in/johnatan-Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
-- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
+- **GitHub:** [github.com/DevSanthiago](https://github.com/DevSanthiago)  
 
 ---
 
