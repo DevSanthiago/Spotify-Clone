@@ -40,7 +40,7 @@ Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenv
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 <div align="center"> 
-  <p>Feito por <a href="https://github.com/JohnReiiss">John Reis</a></p>
+  <p>Feito por <a href="https://github.com/DevSanthiago">DevSanthiago</a></p>
   <p>🔗 <strong>Link do projeto</strong>: <a href="https://github.com/DevSanthiago/Spotify-Clone/" target="_blank" rel="noopener noreferrer">github.com/DevSanthiago/Spotify-Clone</a></p> 
 </div>
 
